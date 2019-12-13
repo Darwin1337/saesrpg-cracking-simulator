@@ -1,0 +1,2 @@
+make 0 not selectable
+make settings only available when new number button is pressed
