@@ -21,5 +21,3 @@ A number is generated between 1 and X (1 000 000 by default) and the user has to
 ## Screenshots
 
 ![Application UI](https://i.imgur.com/Erk1soq.png)
-
-Pardon my spaghetti code for I did not know how to code properly (still don't).
